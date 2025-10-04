@@ -1,3 +1,4 @@
+[Retour à l'index](index.md)
 # Syllabus du Cours (PRAVAN)
 
 **Université** : USTHB  <img src="img/USTHB.png" height="24px"/>  
@@ -18,10 +19,41 @@
 ## Rôle de PRAVAN dans tout ça ?
 Permet aux étudiants de se familiariser avec les nouvelles technologies du Web, notamment le langage Python, le Web multimédia et les Services web. 	
 
+
 <img src="img/1.png" />
 
+## Objectifs:	
+Au terme de ce cours, l'étudiant devra être capable de concevoir **un site Web dynamique** avec des **fonctionnalités du côté client autant que du côté serveur**. Il devra aussi se familiariser avec les nouvelles technologies du Web, notamment le Web multimédia et les Services web **(Programmation Web Avancée)**.
 
-Crédits ECTS : [ex. 6 crédits]
+## Contenu du cours:	
+- Chapitre 1: Introduction à Internet/Web
+- Chapitre 2: HTML
+- Chapitre 3: CSS
+- Chapitre 4: JavaScript
+- Chapitre 5: HTTP/Formulaires
+- Chapitre 6: Sites Dynamique (Python/Flask)
+- Chapitre 7: Persistence des données
+- Chapitre 8: SPA & Services Web
+
+<br>
+
+<img src="img/plan.png" />
+
+## Règlement:
+- Travaux pratiques (TP) : à réaliser individuellement (monôme).
+- Projet : à réaliser en binôme et à rendre à la date fixée.
+- Cours magistraux : la présence n’est pas obligatoire.
+- Travaux pratiques (TP) : la présence est obligatoire. Un retard de plus de 15 minutes sera considéré comme une absence.
+- Les justificatifs d’absences doivent être validés par le département, et remis dans un délai de 48h, en version papier dans mon casier.
+- Tout travail de plagiat/fraude/LLM sera sanctionné par un 0 dans le travail concerné.
+- Les supports et annonces seront publiés sur Google Classroom.
+
+## Evaluation:
+
+Moyenne Générale  = TP×0.4 + EMD×0.6
+Moyenne = CC + (Projet 1 × Coef1) + (Projet 2 × Coef2)
+Crédit: 4
+Coefficient: 4
 
 
-[Retour à l'index](syllabus.md)
+
