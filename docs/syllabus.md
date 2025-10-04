@@ -50,9 +50,12 @@ Au terme de ce cours, l'étudiant devra être capable de concevoir **un site Web
 
 ## Evaluation:
 
-Moyenne Générale  = TP×0.4 + EMD×0.6   
+Moyenne Générale  = TP×0.4 + EMD×0.6  
+
 Moyenne = CC + (Projet 1 × Coef1) + (Projet 2 × Coef2)   
+
 Crédit: 4   
+
 Coefficient: 4   
 
 
