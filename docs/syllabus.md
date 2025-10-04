@@ -1,7 +1,7 @@
 # Syllabus du Cours (PRAVAN)
 
 **Université** : USTHB  <img src="img/USTHB.png" height="24px"/>  
-**Faculté / Département** : [Informatique / SIQ](https://finfo.usthb.dz/) 
+**Faculté / Département** : [Informatique / SIQ](https://finfo.usthb.dz/)  
 **Niveau/Spécialité** : Master 2 / BIGDATA   
 **Intitulé du cours** : Programmation Avancée (PRAVAN)  
 **Année universitaire** : 2025-2026   
