@@ -26,7 +26,7 @@ Crédits ECTS : [ex. 6 crédits]
 <div style="
   position: fixed;
   bottom: 20px;
-  left: 20px;
+  right: 20px;
   background:#0366d6;
   color:white;
   padding:10px 18px;
