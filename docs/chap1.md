@@ -48,11 +48,13 @@ World Wide Web (WWW), ou la toile d’araignée (en français).
 Inventé 1989, au CERN, par [Sir Tim Berners Lee](https://www.youtube.com/watch?v=PbCG_BeL5dY).
 
 **Technologies de base utilisés:**
+
 - HTML: pour structurer le contenu de la page web.
 - HTTP: pour transférer des documents sur le Web
 - URL: l'adresse unique utilisée pour localiser une ressource sur le Web
 
 **Les élément de base du Web**
+
 - Serveur Web HTTP
 - Langage HTML
 - Navigateur Web (client HTTP)
@@ -93,6 +95,7 @@ Constatant cet écart avec l’esprit initial d’un Web libre et décentralisé
 
 ### 3- Pages/Sites Web
 **Page Web:**
+
 Une page Web peut contenir différents type d'éléments:
 - Bannière avec Menu
 - Des Titres
