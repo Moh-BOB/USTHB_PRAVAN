@@ -1,5 +1,5 @@
 [Retour à l'index](index.md)
-# Chapitre 1: Introduction à Internet/Web]
+# Chapitre 1: Introduction à Internet/Web
 ## 1- Internet
 Une technologie conçue dans les années 1960 aux États-Unis. Elle a été imaginée par les 3 scientifiques: **J.C.RLicklider, R.Taylor et L.Roberts**, qui ont un jour déclaré: 
 *[...] Nous pensons que nous entrons dans une ère technologique dans laquelle nous pourrons interagir avec la richesse des informations vivantes, non seulement de la manière passive avec laquelle nous nous sommes habitués à utiliser des livres et des bibliothèques, mais en tant que participants actifs dans un processus continu, en lui apportant quelque chose par notre interaction avec lui [...]*
@@ -168,6 +168,7 @@ etc.
 Puisque le HTML ne suffit pas, que fait-on ? Nous aurons besoin d’un autre langage: Le CSS
 
 **Langage CSS: Cascading Style Sheet**
+
 Un document CSS (Cascading Style Sheet) ou (Feuille de Styles), est une document écrit en langage CSS, permettant de déclarer des styles.
 
 Styles CSS:
@@ -185,6 +186,7 @@ etc.
 Quels types de site pourrait-on créer avec HTML et CSS seulement ? 
 
 **Sites Statiques:**
+
 Les langage HTML et CSS suffisent pour créer des sites Web statiques :
 - CV en ligne
 - Site vitrine ou Portfolio (Galerie)
@@ -196,12 +198,14 @@ Les langage HTML et CSS suffisent pour créer des sites Web statiques :
 - Site de recette
 
 **Interactivité coté client:**
+
 Il arrive qu'on ait besoin de rajouter de l'interactivité côté client à une page Web. Ceci se fait avec JavaScript, en programmant des bouts de code qui seront exécutés du côté client (dans la navigateur)
 Ex: réagir au clique de la souris, afficher/masquer des éléments.
 
 <img src="img/js.png"/>
 
 **Site Statique vs Site Dynamique**
+
 D’abord, c’est statique ou dynamique pour qui ? (pour l’utilisateur ou pour le développeur ?
 Réponse: Pour le développeur.
 Exemple: Prenons l’exemple d’un site vitrine qui affiche la liste d’article mis en vente.
@@ -226,12 +230,14 @@ Blog avec commentaires
 <br/>
 
 **Persistance des données**
+
 On pourrait franchir une étape supplémentaire en ajoutant la persistance des données.
 Dans l’exemple de la gestion d’articles, les articles ne sont plus stockés dans le code ou dans de simples fichiers, mais dans une base de données (comme MySQL ou PostgreSQL). Cela permet d’ajouter, modifier ou supprimer des articles via une interface (ex. panneau d’administration), et le site se met à jour automatiquement en affichant les données à jour.
 
 <img src="img/bd.png"/>
 
 ### 6- Et ChatGPT dans tout ça ?
+
 ChatGPT nous aide, mais pas toujours.
 Voici quelques inconvénients relatif au fait de se baser sur ChatGPT pour développer une application web  avec des "prompts" :
 
