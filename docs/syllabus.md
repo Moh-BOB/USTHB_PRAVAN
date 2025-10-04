@@ -23,19 +23,5 @@ Permet aux étudiants de se familiariser avec les nouvelles technologies du Web,
 
 Crédits ECTS : [ex. 6 crédits]
 
-<div style="
-  position: fixed;
-  bottom: 20px;
-  right: 20px;
-  background:#0366d6;
-  color:white;
-  padding:10px 18px;
-  border-radius:6px;
-  text-decoration:none;
-  font-weight:bold;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.2);
-">
-  <a href="index.md" style="color:white; text-decoration:none;">
-    ⬅️ Retour à l'index
-  </a>
-</div>
+
+[Retour à l'index](syllabus.md)
