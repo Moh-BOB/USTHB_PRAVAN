@@ -1,2 +1,2 @@
 # Bienvenue sur le site du cours PRAVAN 🎓
-- 📄 [Syllabus du cours](syllabus.md)
+- 📄 [Syllabus du cours](syllabus.md) s
