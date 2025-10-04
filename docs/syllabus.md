@@ -35,7 +35,7 @@ Crédits ECTS : [ex. 6 crédits]
   font-weight:bold;
   box-shadow: 0 2px 6px rgba(0,0,0,0.2);
 ">
-  <a href="index.html" style="color:white; text-decoration:none;">
+  <a href="index.md" style="color:white; text-decoration:none;">
     ⬅️ Retour à l'index
   </a>
 </div>
